@@ -9,7 +9,7 @@
 <h1> Building a Dynamic Form with PHP </h1>
 <p>Elijah Hilfiker</p>
 <p>11/10/2025</p>
-<form action="process.php" method="post">
+<form action="confirm.php" method="post">
     <label for="name">Name:</label>
     <input type="text" id="name" name="name" required><br><br>
 
